@@ -26,16 +26,16 @@
    &kp TAB   &kp Q &kp W &kp F &kp P &kp B    &kp J &kp L &kp U    &kp Y   &kp SEMICOLON    &kp BKSP
    &kp ESC  &kp A &kp R &kp S &kp T &kp G    &kp M &kp N &kp E    &kp I   &kp O &kp APOSTROPHE
    &kp LSHFT &kp Z &kp X &kp C &kp D &kp V    &kp K &kp H &kp CMMA &kp DOT &kp FSLH &kp ENTER
-              &kp LGUI &kp LCTL &lt NUMROW SPACE    &kp SPC &mo ADJUST &kp F13
+              &kp LGUI &mo GAMING &lt NUMROW SPACE    &kp SPC &mo ADJUST &kp F13
                         >;
                 };
 
                 gaming_layer {
                         label = "GAMING";
                         bindings = <
-   &kp TAB   &kp Q &kp W &kp E &kp R &kp T    &kp Y &kp U &kp I    &kp O   &kp P    &kp BKSP
-   &kp LALT  &kp A &kp S &kp D &kp F &kp G    &kp H &kp J &kp K    &kp L   &kp QUOT &kp ENTER
-   &kp LSHFT &kp Z &kp X &kp C &kp V &kp B    &kp N &kp M &kp CMMA &kp DOT &kp FSLH &kp RSFT
+   &kp TAB   &kp J &kp L &kp U &kp Y &kp SEMICOLON    &kp Y &kp U &kp I    &kp O   &kp P    &kp BKSP
+   &kp LALT  &kp M &kp N &kp E &kp I &kp O    &kp H &kp J &kp K    &kp L   &kp QUOT &kp ENTER
+   &kp LSHFT &kp K &kp H &kp CMMA &kp DOT &kp FSLH    &kp N &kp M &kp CMMA &kp DOT &kp FSLH &kp RSFT
                &kp LCTL &mo NUMROW &kp SPC    &kp SPC &mo ADJUST &kp F13
                         >;
                 };
